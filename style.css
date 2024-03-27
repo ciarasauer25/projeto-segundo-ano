@@ -41,24 +41,24 @@
 
 .p-tit-2 {
     font-size: 20px;
-    color: rgb(75, 75, 83);
+    color: rgb(0, 0, 0);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .item-1 {
-    color: rgb(83, 87, 83);
+    color: rgb(0, 0, 0);
 }
 
 .item-2 {
-    color: rgb(78, 76, 78);
+    color:black;
 }
 
 .item-3 {
-    color: rgb(94, 89, 91);
+    color:;
 }
 
 .item-4 {
-    color: rgb(59, 62, 63);
+    color: black;
 }
 
 .secao {
